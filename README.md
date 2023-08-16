@@ -33,7 +33,7 @@
 
 
 # :scroll: <a name="function">기능</a>
-[상세보기]()
+[상세보기](https://github.com/0gon/Lotto3/blob/master/Presentation.md)
 
 # :mag_right: <a name="#fullfill">보완할점</a>
 ### 1. 두 장 이상의 다수의 용지를 구매 가능 했으면 좋겠다.
