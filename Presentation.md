@@ -6,7 +6,7 @@
 
 <img src="https://github.com/0gon/Lotto3/assets/134483516/7eb124aa-1ab8-44a5-ae16-ded62537c4cd"/>
 
-### 처음에 보이게 되는 시작 화면
+처음에 보이게 되는 시작 화면
 
 
 ### <a name="fun1">로또 구매 화면
